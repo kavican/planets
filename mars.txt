@@ -1,3 +1,2 @@
 Cold and dry, but everything is bla bla
-
-Added a new line to test
+We can build a base there
