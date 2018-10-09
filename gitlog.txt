@@ -1,0 +1,23 @@
+commit 9c6ea2e5b3ad3b6045cb5e0abede9c9707ff1207
+Author: kavican <kavican@gmail.com>
+Date:   Tue Oct 9 14:29:05 2018 +0200
+
+    done by own
+
+commit fbd76eee0202b3998679e65bb1cd15612ddd9d99
+Author: kavican <kavican@gmail.com>
+Date:   Tue Oct 9 14:19:01 2018 +0200
+
+    another change made
+
+commit b85a6fc238044e6ebb2b46e5fa1158eb2dc4f1da
+Author: kavican <kavican@gmail.com>
+Date:   Tue Oct 9 14:14:21 2018 +0200
+
+    Added stuff
+
+commit 422a53eabe56eeabc554ef77ef93accac6bfe814
+Author: kavican <kavican@gmail.com>
+Date:   Tue Oct 9 13:54:07 2018 +0200
+
+    Created the file mars.txt
